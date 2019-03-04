@@ -1,0 +1,5 @@
+Google gsutil command in an alpine-based image
+
+The image contains also `bash`
+
+`npm run -it gsutil-alpine-client:latest bash`
