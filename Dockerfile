@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-MAINTAINER Karim Heraud <karim@sowefund.com>
+MAINTAINER Karim Heraud <kheraud@gmail.com>
 
 ENV GSUTIL_VERSION 4.37
 
